@@ -1,0 +1,385 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.upperMenu{
+   height: 65px;
+   background-color: rgb(231, 231, 231); 
+   display: flex;
+   justify-content: center;
+   
+}
+
+.box-1{
+    /* background-color: black; */
+    height: 63px;
+    width: 95px;
+    background-color: white;  
+
+}
+
+.box-2{
+    /* background-color: rgb(255, 0, 0); */
+    height: 60px;
+    width: 95px;
+    border: 2px solid rgb(216, 216, 216);
+
+}
+
+
+.box-3{
+    /* background-color: rgb(79, 33, 185); */
+    height: 60px;
+    width: 95px;
+    border: 2px solid rgb(216, 216, 216);
+}
+.box-4{
+    /* background-color: rgb(9, 221, 104); */
+    height: 65px;
+    width: 150px;
+}
+.box-5{
+    /* background-color: rgb(0, 68, 255); */
+    height: 65px;
+    width: 150px;
+    margin-left: 40px;
+}
+.box-6{
+    /* background-color: rgb(229, 255, 0); */
+    height: 65px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.center{
+    margin: 8px;
+}
+
+.navbar-menu{
+    background: rgb(248, 248, 248);
+    border-bottom: 2px solid #f0f0f0;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.navbarBox-1{
+    height: 100%;
+    width: 140px;
+    background-color: rgb(197, 197, 197);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbarBox-1:hover{
+        background-color: rgb(197, 197, 197);
+}
+.navbarBox-2:hover{
+        background-color: rgb(227, 53, 13);
+}
+.navbarBox-3:hover{
+        background-color: rgb(239, 118, 63);
+}
+.navbarBox-4:hover{
+        background-color: rgb(230, 188, 47);
+}
+.navbarBox-5:hover{
+        background-color: rgb(77, 173, 91);
+}
+.navbarBox-6:hover{
+        background-color: rgb(48, 167, 215);
+}
+.navbarBox-7:hover{
+        background-color: rgb(27, 83, 186);
+}
+
+.text:hover{
+    color: white;
+}
+.Adjust-size-and-color:hover{
+    color: white !important;
+}
+
+
+
+.navbarBox-2{
+    height: 100%;
+    width: 140px;
+    /* background-color: rgb(4, 4, 12); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.navbarBox-3{
+    height: 100%;
+    width: 130px;
+    /* background-color: rgb(119, 24, 48); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.navbarBox-4{
+    height: 100%;
+    width: 140px;
+    /* background-color: blueviolet; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.navbarBox-5{
+    height: 100%;
+    width: 140px;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.navbarBox-6{
+    height: 100%;
+    width: 140px;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.navbarBox-7{
+    height: 100%;
+    width: 140px;
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Adjust-size-and-color{
+    font-size: 30px !important;
+    color: grey !important;
+}
+
+.text{
+    text-align: center;
+    margin-top: 9px;
+}
+
+
+.Black-Background{
+    background-color: black;
+    height: 2200px;
+}
+
+.design-background{
+   background-image: url(./images/background-Pictures/container_bg.png); 
+   height: 1000px;
+   
+}
+
+.white-backdround{
+    background-color: white;
+    height: 1100px;
+    width: 95%;
+    margin: auto;
+}
+
+.colorfull-container{
+    height: 6px;
+    width: 76%;
+    margin: auto;
+    display: flex;
+    
+}
+
+.colorfull-box-1{
+    width: 140px;
+    height: 6px;
+    background-color: rgb(197, 197, 197);
+}
+.colorfull-box-2{
+    width: 140px;
+    height: 6px;
+    background-color: rgb(227, 53, 13);
+}
+.colorfull-box-3{
+    width: 130px;
+    height: 6px;
+    background-color: rgb(230, 188, 47);
+}
+.colorfull-box-4{
+    width: 140px;
+    height: 6px;
+    background-color: rgb(230, 188, 47);
+}
+.colorfull-box-5{
+    width: 140px;
+    height: 6px;
+    background-color: rgb(77, 173, 91);
+}
+.colorfull-box-6{
+    width: 140px;
+    height: 6px;
+    background-color: rgb(48, 167, 215);
+}
+.colorfull-box-7{
+    width: 140px;
+    height: 6px;
+    background-color: rgb(27, 83, 186);
+}
+
+.background-white-color{
+    background-color: white;
+    width: 76%;
+    margin: auto;
+    height: 800px;
+    display: flex;
+}
+
+.half-box-1{
+    height: 800px;
+    width: 60%;
+    margin-top: 20px;
+}
+
+.big-box{
+    background-color: rgb(27, 83, 186);
+    height: 470px;
+    width: 100%;
+    text-align: center;
+}
+
+.text-for-big-box{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.color-white{
+    color: white;
+    font-size: 22px;
+}
+
+.text-style-for-box{
+    color: rgb(32, 155, 215);
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.small-boxes-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.small-1-box{
+    height: 280px;
+    background-color: rgb(40, 40, 40);
+    width: 40%;
+    margin-top: 15px;
+}
+
+.fixed-image-height{
+    width: 100%;
+
+}
+
+.small-box-white-text{
+    color: white;
+    font-size: 23px;
+    text-align: center;
+}
+
+.half-small-two-image{
+    width: 100%;
+}
+
+
+.half-box-2{
+    width: 40%;
+    margin-top: 20px;
+}
+
+.half-small-one{
+    background-color: rgb(218, 71, 27);
+    height: 150px;
+    width: 80%;
+    margin: auto;
+
+}
+
+.half-small-one{
+    display: flex;
+}
+
+.fixed-small-half2{
+    width: 79%;
+}
+
+.image-small-text{
+    font-size: 20px;
+    color: white;
+}
+
+.half-small-two{
+    background-color: rgb(218, 163, 28);
+    height: 260px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+.half-small-two-2{
+    background-color: rgb(255, 31, 28);
+    height: 260px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+
+
+.half-small-two-text{
+    color: white;
+    font-size: 22px;
+    padding: 5px;
+    text-align: center;
+}
+
+
+.slider{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.text-slider{
+ font-size: 50px;
+ color: white;
+ text-align: center;
+
+}
+
+footer{
+    background-color: rgb(10, 8, 22);
+    width: 100%;
+    height: 50px;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+footer p {
+    font-size: 20px;
+    color: white;
+}
